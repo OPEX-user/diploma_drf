@@ -343,4 +343,4 @@
 <ul>
   <li><b>"Success"</b>: "Сообщение сервера"</li>
 </ul>
-# diploma_drf
+# DRF
